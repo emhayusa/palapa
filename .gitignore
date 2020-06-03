@@ -1,0 +1,5 @@
+build/*
+dist/*
+palapa.egg-info/*
+___pycache__/*
+palapa/__pycache__/*
